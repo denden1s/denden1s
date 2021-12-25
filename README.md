@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning C# and programming principles (OOP, SOLID...)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: den221001@gmail.com
-If you read this now, maybe we have some common themes to speak, write me)
+- If you read this now, maybe we have some common themes to speak, write me)
